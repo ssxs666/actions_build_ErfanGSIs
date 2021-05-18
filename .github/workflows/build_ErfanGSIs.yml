@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.pixelexperience.org/changelog/land/PixelExperience_land-11.0-20210422-1522-OFFICIAL.zip/
+  ROM_URL: https://get.pixelexperience.org/Y2pwSUNkTVFPSEJyMXJsamxQcUExUGptWE1CaVg2RE1TWTNVc1JsKzJuajc2UEVJUXdtckUwV3dSUUVFKzFlZlA4aHF1eGJDa2Z2R2NjbnBIY2FtMkU0R1dCK2JhZk9pbG16ZzQxM3g1S1Buc3U4NFBUN0gyY1B0VlhraHlkNnc=/PixelExperience_land-11.0-20210422-1522-OFFICIAL.zip
   ROM_NAME: Pixel
   TZ: Asia/Shanghai
 
