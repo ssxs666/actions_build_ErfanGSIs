@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V10.2.2.0.MALCNXM/miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://download.pixelexperience.org/changelog/land/PixelExperience_land-11.0-20210422-1522-OFFICIAL.zip/
+  ROM_NAME: Pixel
   TZ: Asia/Shanghai
 
 jobs:
