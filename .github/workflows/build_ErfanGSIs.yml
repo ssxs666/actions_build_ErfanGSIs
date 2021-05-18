@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V10.2.2.0.MALCNXM/miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zip
+  ROM_URL: https://bigota.d.miui.com/V10.2.2.0.MALCNXM/miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zi
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
